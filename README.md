@@ -1,2 +1,2 @@
-# D-viz-evirici
+# Doviz-Cevirici
 Döviz kuru çevirici
